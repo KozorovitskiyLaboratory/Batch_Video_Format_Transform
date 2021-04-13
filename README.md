@@ -1,4 +1,4 @@
-# Batch Video Format Changing
+# Batch Video Format Transforming
 A python program that can transform all video files in a folder into a common format supported by ffmpeg
 
 
