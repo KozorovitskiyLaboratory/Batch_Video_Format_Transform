@@ -9,5 +9,5 @@ A python program that can transform all video files in a folder into a common fo
 
 
 <h4> Two things you need to set in the script:</h4>
-<p>1.Your full file path. Example: r'C:\Users\K lab Yuejun\Box'<br>
+<p>1.Your full file path. Example: r'C:\Users\K lab Yuejun\Box' Note: the file path should be the full path. And please DON'T include a '\' at the end of your path<br>
 2.The format you need your video files to change into. Exmaple: '.avi', '.mp4'
