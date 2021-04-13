@@ -8,7 +8,7 @@ from os.path import isfile, join
 #the file path should be the full path. And please DON'T include a '\' at the end of your path
 mypath=r' '
 
-#SET the format you want
+#SET the format you want, exmaple: '.avi', '.mp4'. 
 new_format='.avi'
 
 #get all file names
