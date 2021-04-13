@@ -3,11 +3,12 @@ from ffmpy import FFmpeg
 from os import listdir
 from os.path import isfile, join
 
-#set file folder path here
+#SET file folder path here
 #file path sample:  r'C:\Users\K lab Yuejun\Box'
+#the file path should be the full path. And please DON'T include a '\' at the end of your path
 mypath=r' '
 
-#the format you want
+#SET the format you want
 new_format='.avi'
 
 #get all file names
