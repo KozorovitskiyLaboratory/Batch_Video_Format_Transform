@@ -30,3 +30,5 @@ for file in onlyfiles:
     ff.cmd
     ff.run()
     print('Done')
+    
+print('all completed!')
